@@ -15,15 +15,42 @@ body {
 	color:black;
 }
 #j1{
-	padding-top:150px;
+	margin-top:100px;
+	padding-top:10px;
 	padding-bottom:10px;
-	background-color:transparent;
+	background-color:#d6d6d6;
+	
 }
 #j2{
 	padding-top:10px;
-	padding-bottom:50px;
-	background-color:transparent;
+	padding-bottom:10px;
+	background-color:#d6d6d6;
+
 }
+#padd{
+	padding-right:200px;
+}
+#pass{
+	background-color:transparent;
+	bord
+}
+#j1 .col-md-4 img{
+	height:100px;
+	width:auto;
+	margin-left:20px;
+}
+#j2 .col-md-4 img{
+	height:100px;
+	width:auto;
+	margin-left:20px;
+}
+#j2 .card1{
+	max-width:720px;
+}
+#j1 .container .text-right{
+	padding-ri
+}
+
 .navbar {
 	background: #fff;
 	padding-left: 16px;
